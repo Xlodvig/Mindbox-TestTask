@@ -6,7 +6,9 @@
 
 
 Ответ:
+~~~sql
 select p.title, c.title
 from Products p
     left join ProductCategory pc on p.id = pc.productId
     left join Categories c on c.id = pc.categoryId;
+~~~
