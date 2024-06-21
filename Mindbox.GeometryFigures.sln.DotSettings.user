@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=55a42a9d_002D7598_002D44f2_002Da09d_002D02bc7d84058a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CalculateArea_WithValidParams_ShouldReturnExpectedArea" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::126ED0EF-4E0B-405A-9691-303EECC54187::net7.0::Mindbox.Tests.TriangleTests.CalculateArea_WithValidParams_ShouldReturnExpectedArea&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::126ED0EF-4E0B-405A-9691-303EECC54187::net7.0::Mindbox.Tests.TriangleTests.IsRightAngled_WithValidParams_ShouldReturnExpectedValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::126ED0EF-4E0B-405A-9691-303EECC54187::net7.0::Mindbox.Tests.CircleTests.CircleConstructor_WithInvalidParams_ShouldThrowException&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::126ED0EF-4E0B-405A-9691-303EECC54187::net7.0::Mindbox.Tests.CircleTests.CircleConstructor_WithValidParams_ShouldReturnExpectedValue&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::126ED0EF-4E0B-405A-9691-303EECC54187::net7.0::Mindbox.Tests.CircleTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::126ED0EF-4E0B-405A-9691-303EECC54187::net7.0::Mindbox.Tests.TriangleTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
